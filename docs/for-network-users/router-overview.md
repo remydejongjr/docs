@@ -13,7 +13,7 @@ The ThingsIX Foundation has not vetted or verified the operators below in any wa
 | Name | Region | Website | Remarks |
 | ---- | -----  | ------  | ------  | 
 | ThingsIX Foundation | World | console.thingsix.com | ThingsIX evaluation router. Intended for ThingsIX evaluation purposes only. Limited to 2 devices per user/organization. 
-| SkyNet IoT / SkyLab B.V.| Europe | [www.SkyNetIoT.eu](https://www.SkyNetIoT.eu) | LoRaWAN router-service-network provider.
+| SkyNet IoT / SkyLab B.V.| Europe | [www.SkyNetIoT.io](https://www.SkyNetIoT.io) | LoRaWAN® Internet of Things Hosting Provider.
 | LongAP / HeNet B.V. | World | [www.longap.com](https://www.longap.com) | Commercial router-service from LongAP / HeNet B.V.
 
 
